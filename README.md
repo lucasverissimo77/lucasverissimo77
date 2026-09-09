@@ -66,7 +66,7 @@ Stack
 
 Python FastAPI React PostgreSQL Docker
 
-<br> <a href="https://github.com/SEU_USUARIO/PROJETO-1"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=050816"/> </a> </td> <td width="50%" valign="top">
+<br> <a href="https://github.com/lucasverissimo77/"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=050816"/> </a> </td> <td width="50%" valign="top">
 🚀 NEXUS
 Plataforma web moderna focada em performance, UX e escalabilidade.
 
