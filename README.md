@@ -20,9 +20,9 @@
 
 <!-- STATUS -->
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&logo=probot&logoColor=050816"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-DEVELOPER-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00F5FF?style=for-the-badge&logo=probot&logoColor=050816"/>
+<img src="https://img.shields.io/badge/STATUS-ATIVO-39FF14?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODO-DESENVOLVEDOR-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/lucasverissimo77?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F5FF&labelColor=050816"/>
 
 </div>
