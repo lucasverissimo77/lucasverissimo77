@@ -83,31 +83,31 @@ Meu objetivo é evoluir constantemente e construir projetos que unam **engenhari
 
 ### `// LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,html,css,bash&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,python,html&theme=dark" alt="Languages"/>
 
 <br><br>
 
 ### `// FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend"/>
 
 <br><br>
 
 ### `// BACKEND`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,dotnet&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi&theme=dark" alt="Backend"/>
 
 <br><br>
 
 ### `// DATABASE`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
 
 <br><br>
 
 ### `// CLOUD / DEVOPS`
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux,nginx&theme=dark" alt="Cloud and DevOps"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx&theme=dark" alt="Cloud and DevOps"/>
 
 </div>
 
@@ -203,7 +203,7 @@ Projeto experimental focado em inteligência artificial, automação e interaç�
 
 **Status**
 
-`IN DEVELOPMENT`
+`Em desenvolvimento`
 
 <br>
 
