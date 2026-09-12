@@ -1,7 +1,7 @@
 <!--
-████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████
                     J.A.R.V.I.S // SYSTEM CORE
-████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████████████
 -->
 
 <div align="center">
@@ -40,7 +40,7 @@
 │                                                                       │
 │  NOME        :: Lucas Verissimo                                       │
 │  FUNÇÃO      :: Full Stack Developer & Ethical Hacker                 │
-│  LOCAL       :: Brasil 🇧🇷                                              │
+│  LOCAL       :: Brasil 🇧🇷                                             │
 │  STATUS      :: BUILDING THE FUTURE                                   │
 │                                                                       │
 │  FOCOS       :: Software Engineering                                  │
@@ -256,6 +256,18 @@ NEXT OBJECTIVE:
 ### `// CONTRIBUTION STREAK`
 
 <img src="https://streak-stats.demolab.com?user=lucasverissimo77&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=FFFFFF" width="75%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# `> GITHUB_METRICS`
+
+<div align="center">
+
+### `// J.A.R.V.I.S ANALYTICS`
+
+<img src="https://raw.githubusercontent.com/lucasverissimo77/lucasverissimo77/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
