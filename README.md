@@ -117,7 +117,7 @@ Meu objetivo é evoluir constantemente e construir projetos que unam **engenhari
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion,obsidian,vercel&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Development Tools"/>
 
 <br><br>
 
