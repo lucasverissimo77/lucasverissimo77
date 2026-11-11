@@ -197,17 +197,18 @@ Projetos desenvolvidos durante minha evolução em desenvolvimento Web.
 
 <td width="50%" valign="top">
 
-### 🤖 J.A.R.V.I.S — AI
+### JavaScript
 
-Projeto experimental focado em inteligência artificial, automação e interação com sistemas.
+Projeto focado em aprender uma nova linguagem com e-book e lista de exercicios para iniciantes, intermediarios e Profissionais
 
 **Status**
 
-`Em desenvolvimento`
+`JavaScript`
 
 <br>
-
+<a href="https://github.com/lucasverissimo77/JavaScript">
 <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="Project in development"/>
+</a>
 
 </td>
 
@@ -322,11 +323,11 @@ NEXT OBJECTIVE:
 <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/del_.vall3">
+<a href="https://www.instagram.com/kodeforge_">
 <img src="https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=FF00FF" alt="Instagram"/>
 </a>
 
-<a href="mailto:lucasverissimo107@gmail.com">
+<a href="mailto:kodeforge.rj@gmail.com">
 <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=FF4B4B" alt="Email"/>
 </a>
 
