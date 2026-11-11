@@ -207,7 +207,8 @@ Projeto focado em aprender uma nova linguagem com e-book e lista de exercicios p
 
 <br>
 <a href="https://github.com/lucasverissimo77/JavaScript">
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="Project in development"/>
+<!--<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="Project in development"/>-->
+<img src="https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=for-the-badge&logo=github&logoColor=050816" alt="View HTML Projects"/>
 </a>
 
 </td>
