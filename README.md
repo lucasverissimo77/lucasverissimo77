@@ -201,7 +201,7 @@ Projetos desenvolvidos durante minha evolução em desenvolvimento Web.
 
 Projeto focado em aprender uma nova linguagem com e-book e lista de exercicios para iniciantes, intermediarios e Profissionais
 
-**Status**
+**Stack**
 
 `JavaScript`
 
